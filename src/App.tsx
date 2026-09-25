@@ -328,7 +328,7 @@ export default function App() {
           {/* Text + button */}
           <div>
             <div className="inline-flex items-center gap-2 bg-white/20 text-white px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              ✨ Gratuito &amp; Open Source
+              ✨ Gratuito
             </div>
             <h2 className="font-black text-white leading-tight mb-6"
               style={{ fontFamily: "'Outfit', sans-serif", fontSize: 'clamp(36px, 5vw, 60px)' }}>
