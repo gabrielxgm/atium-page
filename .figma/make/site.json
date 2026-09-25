@@ -1,0 +1,10 @@
+{
+  "description": "Organize and share RPG campaigns effortlessly with tools for map management, resource tracking, and collaborative gameplay planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
