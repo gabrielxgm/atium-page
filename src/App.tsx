@@ -341,7 +341,7 @@ export default function App() {
               <IconDownload />
               Baixar
             </a>
-            <p className="text-blue-200 text-sm mt-4">Windows 10 ou superior / Linux · Grátis para sempre</p>
+            <p className="text-blue-200 text-sm mt-4">Windows 10 ou superior / Linux</p>
           </div>
 
           {/* Welcome screen mockup */}
